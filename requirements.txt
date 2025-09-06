@@ -1,2 +1,2 @@
-web3
-pwntools
+web3>=7.13.0
+pwntools>=4.14.1
